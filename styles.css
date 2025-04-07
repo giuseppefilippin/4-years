@@ -6,7 +6,7 @@ html, body {
     height: 100%;
     margin: 0;
     padding: 0;
-    background: linear-gradient(#ffffff, #f9d6d6);
+    background: #fae1dd;
 }
 
 body {
@@ -16,7 +16,7 @@ body {
     text-align: center;
     margin: 0;
     padding: 75px 0;
-    background: linear-gradient(#ffffff, #f9d6d6);
+    background: #fae1dd;
     font-family: "Steph", sans-serif;
 }
 
