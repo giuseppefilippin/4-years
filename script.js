@@ -11,7 +11,7 @@ const yesButtonStyle = window.getComputedStyle(yesButton);
 const maxYesWidth = parseFloat(yesButtonStyle.maxWidth);
 
 // array of gifs - in order
-const gifs = ["assets/images/dachshund-flowers", "assets/images/dog-scareddog.gif", "assets/images/shy-dog-stan-twitter-funny-dog.gif", "assets/images/sad-dog-anyealator.gif"];
+const gifs = ["assets/images/newdog.gif", "assets/images/dog-puppy.gif", "assets/images/sad-dogge.gif", "assets/images/sad-dog-really-sad.gif"];
 // array of messages
 const buttonMessages = ["Tem certeza??", "Escolha errada!!!", "PFV AMOOR", "Você não pode fazer isso!!"];
 
